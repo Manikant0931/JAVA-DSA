@@ -1,2 +1,2 @@
 # JAVA-DSA
-Complete DSA...
+A repo for DATA STRUCTURE AND ALGORITHMS.
